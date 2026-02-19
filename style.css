@@ -1,0 +1,36 @@
+body {
+    font-family: "poppins", Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p {
+    color: rgb(17, 160, 17);
+}
+
+img {
+    height: 30em;
+}
+
+* {
+    font-family: "poppins";
+}
+
+#title {
+    color: red;
+    font-family: "poppins";
+    font-size: 5vw;
+    font-size: 5vh;
+    padding: 1.5em;
+    border: 1.5em solid;
+    margin: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.band-information {
+    color: red;
+}
+
