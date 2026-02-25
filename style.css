@@ -31,7 +31,12 @@ h2 {
 img {
     height: 400px;
     margin-top: 50px;
-    border: 20px solid rgb(255, 145, 71);
+}
+.two-color-shadow-border {
+    
+    box-shadow: 
+        0 0 0 4px rgb(0, 0, 0),
+        0 0 0 15px rgb(238, 115, 33);
 }
 ul {
     list-style-type: disc;
