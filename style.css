@@ -1,1 +1,27 @@
-
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: lab(78.28% 10.51 60.47 / 0.848)
+}
+h1 {
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(255, 99, 71);
+    font-size: 5.5em;
+}
+h2 {
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3em;
+}
+img {
+    height: 400px;
+}
+ul {
+    list-style-type: disc;
+    padding: 0;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+    font-size: 1.5em;
+}
