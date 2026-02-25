@@ -33,7 +33,6 @@ img {
     margin-top: 50px;
 }
 .two-color-shadow-border {
-    
     box-shadow: 
         0 0 0 4px rgb(0, 0, 0),
         0 0 0 15px rgb(238, 115, 33);
